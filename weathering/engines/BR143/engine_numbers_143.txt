@@ -1,5 +1,6 @@
 
 #1	143 157-6
+bordeaux, DBAG, oben
 http://br143.lok-datenbank.de/index.php?nav=1404805&id=24193&action=portrait
 
 Lebenslauf
@@ -34,6 +35,8 @@ Revisionen
 
 
 #2	143 575-9
+bordeaux, DR
+https://www.youtube.com/watch?v=xhBubEo371U , B. Nissel, 1994-05-03, IR 2255, DR
 http://br143.lok-datenbank.de/index.php?nav=1000001&id=24431&action=portrait
 
 Lebenslauf
@@ -103,3 +106,46 @@ Revisionen
 	- 		AW Dessau 	IS 783 	LD X 	22.09.1999 	Verkehrsrot
 	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	18.09.2007 	Verkehrsrot
 
+
+#4 143 848-0
+bordeaux, DBAG, unten
+https://www.youtube.com/watch?v=xkBDzaeDmrU , B. Nissel, 1992-03-28, IR 2255, 6:40min
+ggf. https://www.youtube.com/watch?v=xhBubEo371U , B. Nissel, 1994-03-05, Rangierfahrt, 1:18min
+http://br143.lok-datenbank.de/index.php?nav=1404810&id=24563&action=portrait
+
+Lebenslauf
+28.11.1988 	  	  	Abnahme als Variante N8
+[KWS (34 polig), KDS (34 polig)]
+28.11.1988 	  	  	Auslieferung an DR - Deutsche Reichsbahn "243 848-9"
+01.01.1992 	  	  	Umzeichnung in "143 848-0"
+01.01.1994 	  	  	=> DB AG - Deutsche Bahn AG, GB Traktion "143 848-0"
+01.01.1998 	  	  	=> DB AG - Deutsche Bahn AG, GB Nahverkehr "143 848-0"
+01.07.1999 	  	  	=> DB Regio AG "143 848-0"
+01.01.2007 	  	  	Vergabe der NVR-Nummer  "91 80 6143 848-0 D-DB"
+06.03.2015 	  	  	Abstellung
+10.03.2015 	  	  	z-Stellung
+01.06.2015 	  	  	Ausmusterung [Bh Cottbus]
+01.06.2015 	  	  	an MEG - Mitteldeutsche Eisenbahn GmbH, Schkopau "610"
+[NVR-Nummer: 91 80 6143 848-0 D-MEG]
+15.04.2016 	  	  	Umbau [Rückbau der KWS (34-polig) und der Zugsammelschiene]
+26.05.2020 	  	  	an FWK - Fahrzeugwerk Karsdorf GmbH & Co. KG, Karsdorf "143 848-0"
+[NVR-Nummer: 91 80 6143 848-0 D-FWK] 
+
+Stationierungen
+08.12.1988 	- 		Bw Berlin Ostbahnhof (Hbf) 	
+	- 		Bw Senftenberg 	
+	- 		Lübbenau 	
+	- 		Bw Senftenberg 	
+	- 		Lübbenau 	
+	- 		Bw Senftenberg 	
+	- 		Bw Hoyerswerda 	
+	- 	30.10.2013 	Bw Cottbus 1 	
+31.10.2013 	- 	07.04.2014 	Rostock 1 	
+08.04.2014 	- 	31.05.2015 	Bw Cottbus 1 	
+
+Revisionen
+	- 		Bw Berlin Hbf 	ID 	Hnd 	08.12.1988 	Bordeaux
+	- 		AW Dessau 	I7 	LD X 	31.12.1996 	Bordeaux
+	- 		AW Dessau 	IS 783 	LD X 	14.09.2001 	Verkehrsrot
+	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	31.05.2007 	Verkehrsrot
+	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	15.04.2016 	Rot (MEG)
