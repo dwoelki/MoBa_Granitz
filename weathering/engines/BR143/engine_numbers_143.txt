@@ -36,7 +36,7 @@ Revisionen
 
 #2	143 575-9
 bordeaux, DR
-https://www.youtube.com/watch?v=xhBubEo371U , B. Nissel, 1994-05-03, IR 2255, DR
+https://youtu.be/xhBubEo371U?t=112 , B. Nissel, 1994-05-03, IR 2255 (eher ein anderer Zug), DR, 1:52min
 http://br143.lok-datenbank.de/index.php?nav=1000001&id=24431&action=portrait
 
 Lebenslauf
@@ -77,40 +77,11 @@ Revisionen
 	- 		DB Regio AG, Werkstatt Stuttgart 	IS 930 	TS 	03.03.2011 	Verkehrsrot
 
 
-#3	143 866-2
-http://br143.lok-datenbank.de/index.php?nav=1404810&id=24581&action=stationierung
-
-Lebenslauf
-23.01.1989 	  	  	Abnahme als Variante N8
-[KWS (34 polig), KDS (34 polig)]
-23.01.1989 	  	  	Auslieferung an DR - Deutsche Reichsbahn "243 866-1"
-01.01.1992 	  	  	Umzeichnung in "143 866-2"
-01.01.1994 	  	  	=> DB AG - Deutsche Bahn AG, GB Traktion "143 866-2"
-01.01.1998 	  	  	=> DB AG - Deutsche Bahn AG, GB Nahverkehr "143 866-2"
-01.07.1999 	  	  	=> DB Regio AG "143 866-2"
-__.__.2000 	  	  	Umbau in Variante W
-[Ausbau KWS (34 polig), KDS (34 polig)]
-[Einbau KWS (36 polig)]
-01.01.2007 	  	  	Vergabe der NVR-Nummer  "91 80 6143 866-2 D-DB"
-__.11.2011 	  	  	Abstellung
-10.02.2012 	  	  	z-Stellung
-01.06.2012 	  	  	Ausmusterung [Bh Nürnberg]
-22.05.2012 	  	  	++ [Bender Rohstoff-Recycling e.K., Leverkusen-Opladen]
-
-Stationierungen
-27.01.1989 	- 		Bw Berlin Ostbahnhof (Hbf)
-
-Revisionen
-	- 		Bw Berlin Hbf 	ID 	Hnd 	27.01.1989 	Bordeaux
-	- 		AW Dessau 	E2 	LD X 	11.03.1994 	Bordeaux
-	- 		AW Dessau 	IS 783 	LD X 	22.09.1999 	Verkehrsrot
-	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	18.09.2007 	Verkehrsrot
-
-
-#4 143 848-0
+	
+#3  143 848-0
 bordeaux, DBAG, unten
-https://www.youtube.com/watch?v=xkBDzaeDmrU , B. Nissel, 1992-03-28, IR 2255, 6:40min
-ggf. https://www.youtube.com/watch?v=xhBubEo371U , B. Nissel, 1994-03-05, Rangierfahrt, 1:18min
+https://youtu.be/xkBDzaeDmrU?t=396 , B. Nissel, 1992-03-28, 6:36min
+ggf. https://youtu.be/xhBubEo371U?t=78 , B. Nissel, 1994-03-05, Rangierfahrt, 1:18min
 http://br143.lok-datenbank.de/index.php?nav=1404810&id=24563&action=portrait
 
 Lebenslauf
@@ -149,3 +120,101 @@ Revisionen
 	- 		AW Dessau 	IS 783 	LD X 	14.09.2001 	Verkehrsrot
 	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	31.05.2007 	Verkehrsrot
 	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	15.04.2016 	Rot (MEG)
+	
+
+(#4)  143 866-2
+http://br143.lok-datenbank.de/index.php?nav=1404810&id=24581&action=stationierung
+
+Lebenslauf
+23.01.1989 	  	  	Abnahme als Variante N8
+[KWS (34 polig), KDS (34 polig)]
+23.01.1989 	  	  	Auslieferung an DR - Deutsche Reichsbahn "243 866-1"
+01.01.1992 	  	  	Umzeichnung in "143 866-2"
+01.01.1994 	  	  	=> DB AG - Deutsche Bahn AG, GB Traktion "143 866-2"
+01.01.1998 	  	  	=> DB AG - Deutsche Bahn AG, GB Nahverkehr "143 866-2"
+01.07.1999 	  	  	=> DB Regio AG "143 866-2"
+__.__.2000 	  	  	Umbau in Variante W
+[Ausbau KWS (34 polig), KDS (34 polig)]
+[Einbau KWS (36 polig)]
+01.01.2007 	  	  	Vergabe der NVR-Nummer  "91 80 6143 866-2 D-DB"
+__.11.2011 	  	  	Abstellung
+10.02.2012 	  	  	z-Stellung
+01.06.2012 	  	  	Ausmusterung [Bh Nürnberg]
+22.05.2012 	  	  	++ [Bender Rohstoff-Recycling e.K., Leverkusen-Opladen]
+
+Stationierungen
+27.01.1989 	- 		Bw Berlin Ostbahnhof (Hbf)
+
+Revisionen
+	- 		Bw Berlin Hbf 	ID 	Hnd 	27.01.1989 	Bordeaux
+	- 		AW Dessau 	E2 	LD X 	11.03.1994 	Bordeaux
+	- 		AW Dessau 	IS 783 	LD X 	22.09.1999 	Verkehrsrot
+	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	18.09.2007 	Verkehrsrot
+
+
+
+(#5)  143 823-3
+bordeaux, DR
+https://youtu.be/xkBDzaeDmrU?t=330 , 1992-03-28, 19:01 Uhr
+... muss nachfolgend verlinkter Zug sein, der allerdings in Lübbenau starten müsste und dann auch 25 min zu spät wäre: https://www.fernbahn.de/datenbank/suche/?zug_id=19910501686
+[Gegengleis bei 6:54 dann 143 953-8]
+http://br143.lok-datenbank.de/index.php?nav=1401007&id=24538&action=stationierung
+
+Lebenslauf
+02.09.1988 	  	  	Abnahme als Variante N8
+[KWS (34 polig), KDS (34 polig)]
+02.09.1988 	  	  	Auslieferung an DR - Deutsche Reichsbahn "243 823-2"
+01.01.1992 	  	  	Umzeichnung in "143 823-3"
+01.01.1994 	  	  	=> DB AG - Deutsche Bahn AG, GB Traktion "143 823-3"
+07.03.1995 	  	  	Umbau in Variante S1 [Einbau ZWS / ZDS / FMZ / SAT]
+01.01.1998 	  	  	=> DB AG - Deutsche Bahn AG, GB Nahverkehr "143 823-3"
+01.07.1999 	  	  	=> DB Regio AG "143 823-3"
+01.01.2007 	  	  	Vergabe der NVR-Nummer  "91 80 6143 823-3 D-DB"
+10.04.2008 	  	  	Umzeichnung in "143 823"
+09.02.2016 	  	  	Abstellung
+23.07.2020 	  	  	z-Stellung [Bh Düsseldorf]
+					abgestellt in Düsseldorf 
+
+Stationierungen
+09.09.1988 	- 		Bw Berlin Ostbahnhof (Hbf) 	
+
+Revisionen
+	- 		Bw Berlin Hbf 	ID 	Hnd 	09.09.1988 	Bordeaux
+	- 		AW Dessau 	I8 	LD X 	07.03.1995 	Lichtgrau-Lachsorange-Pastellgelb
+	- 		AW Dessau 	IS 783 	LD X 	20.03.2000 	Verkehrsrot
+	- 		DB Fahrzeuginstandsetzung Dessau 	IS 630 	LD X 	10.04.2008 	Verkehrsrot 
+
+
+(#6)  143 865-4
+bordeaux, DR
+https://youtu.be/gk_e6sUXkGw?t=358 sowie gleiches Video https://youtu.be/gk_e6sUXkGw?t=530 (wohl starke Befahrung Senftenberg-Ast)
+http://br143.lok-datenbank.de/index.php?nav=1404656&id=24580&action=stationierung
+
+Lebenslauf
+25.01.1989 	  	  	Abnahme als Variante N8
+[KWS (34 polig), KDS (34 polig)]
+25.01.1989 	  	  	Auslieferung an DR - Deutsche Reichsbahn "243 865-3"
+01.01.1992 	  	  	Umzeichnung in "143 865-4"
+01.01.1994 	  	  	=> DB AG - Deutsche Bahn AG, GB Traktion "143 865-4"
+01.01.1998 	  	  	=> DB AG - Deutsche Bahn AG, GB Nahverkehr "143 865-4"
+01.07.1999 	  	  	=> DB Regio AG "143 865-4"
+01.01.2007 	  	  	Vergabe der NVR-Nummer  "91 80 6143 865-4 D-DB"
+26.08.2010 	  	  	Abstellung
+27.02.2013 	  	  	z-Stellung
+07.11.2014 	  	  	Ausmusterung [Bh Dresden]
+__.11.2014 	  	  	++ [TSR Recycling GmbH & Co. KG, Magdeburg-Hafen] 
+
+Stationierungen
+31.01.1989 	- 	29.05.1994 	Bw Senftenberg 	
+30.05.1994 	- 	25.05.1995 	Bw Hoyerswerda 	
+26.05.1995 	- 	09.06.2001 	Bw Cottbus 	
+10.06.2001 	- 	31.01.2002 	Bw Nürnberg Hbf 	
+01.02.2002 	- 	05.01.2003 	Bw Leipzig Hbf West 	
+06.01.2003 	- 	__.__.2010 	Bw Dresden 	
+
+Revisionen
+	- 		Bw Senftenberg 	ID 	Hnd 	31.01.1989 	Bordeaux
+	- 		DB Werkstatt Dresden-Friedrichstadt 	I7 	DD X 	13.03.1997 	Bordeaux
+	- 		AW Dessau 	IS 783 	LD X 	10.10.2002 	Verkehrsrot
+
+
